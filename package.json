@@ -1,0 +1,13 @@
+{
+  "name": "devops-cicd-journey-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vinimarques7/devops-cicd-journey-test.git",
+  "author": "vinimarques7 <vini.marques_07@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}
